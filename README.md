@@ -1,1 +1,1 @@
-# common-components
+# simple-templates
